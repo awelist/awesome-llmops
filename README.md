@@ -63,6 +63,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - **[PromptLayer](https://www.promptlayer.com/)** – Log, monitor, and manage prompts across LLM providers.
 - **[Arize AI](https://arize.com/)** – LLM monitoring, evaluation, and prompt tracing.
+- **[Speakeasy](https://www.speakeasy.com/product/ai-control-plane)** – Enterprise AI control plane for governing access, policy, and auditability across agents, MCP servers, and Skills.
 - **[Opik](https://github.com/comet-ml/opik)** – Open-source LLM observability, evaluation, and tracing platform.
 - **[Latitude](https://github.com/latitude-dev/latitude-llm)** – Open-source, MIT-licensed platform for improving production AI agents: observe traces, search semantically, and track recurring failures as issues.
 - **[WhyLabs](https://whylabs.ai/)** – Observability for ML and LLM deployments.

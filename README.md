@@ -51,6 +51,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Helm](https://crfm.stanford.edu/helm/latest/)** – Stanford’s framework for evaluating LLMs across tasks.
 - **[LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** – Test harness for LLM evaluation.
 - **[TruLens](https://github.com/truera/trulens)** – LLM observability and feedback tracking.
+- **[YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark)** – Longitudinal evaluation and immutable evidence for agent runs: private fresh-repository attempt workspaces, deterministic and LLM-judge evaluator profiles, and hash-verified retained evidence.
 
 ## Serving & Inference
 

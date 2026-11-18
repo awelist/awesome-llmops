@@ -97,6 +97,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[LLamaIndex](https://github.com/jerryjliu/llama_index)** – Connect data sources to LLMs via indexing.
 - **[RAGStack (Haystack)](https://haystack.deepset.ai/)** – Retrieval-augmented generation framework.
 - **[FastChat](https://github.com/lm-sys/FastChat)** – Open platform for serving and fine-tuning chat LLMs.
+- **[OpenProxyAI](https://github.com/Rayyan-Oumlil/OpenProxyAI)** – Self-hosted LLM gateway with data-class routing, policy checks, budgets and an audit trail.
 
 ## Tooling Ecosystem
 

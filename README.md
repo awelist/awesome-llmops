@@ -47,6 +47,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Evaluation & Benchmarking
 
+- **[agentest](https://github.com/srpadmanabhuni/agentest)** – Offline, deterministic agentic evals for AI agents: 165 tests, no LLM judge.
 - **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** – Benchmarking open LLMs.
 - **[Helm](https://crfm.stanford.edu/helm/latest/)** – Stanford’s framework for evaluating LLMs across tasks.
 - **[LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** – Test harness for LLM evaluation.
